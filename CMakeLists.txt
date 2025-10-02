@@ -9,4 +9,5 @@ add_library(lowlevelacademy STATIC fundamentals/library.c
         conditionalflows/conditionalflows.c
         conditionalflows/conditionalflows.h
         loops/loops.c
-        functions/functions.c)
+        functions/functions.c
+        structure/structure.c)

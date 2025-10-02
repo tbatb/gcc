@@ -4,6 +4,24 @@
 
 #include  <stdio.h>
 
-int main() {
+int add(int x, int y) {
+    int z = x+y;
+    return z;
+}
+
+int initialize_employee_structure(Employee *e) {
+    // initiallize a structure to
+    // contain employee data
+}
+
+int destroy_employee_structure(Employee *e) {
+    // initiallize a structure to
+    // contain employee data
+}
+
+int main(int argc, char *argv[]) {
+
+    int other_int = add(1,2);
+    printf("%d\n", other_int);
 
 }
