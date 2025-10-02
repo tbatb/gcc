@@ -3,4 +3,10 @@ project(lowlevelacademy C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_library(lowlevelacademy STATIC library.c)
+add_library(lowlevelacademy STATIC fundamentals/library.c
+        strings/strings.c
+        strings/strings.h
+        conditionalflows/conditionalflows.c
+        conditionalflows/conditionalflows.h
+        loops/loops.c
+        functions/functions.c)
