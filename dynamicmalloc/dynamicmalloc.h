@@ -1,0 +1,8 @@
+//
+// Created by Tegshbayar Batbayar on 04.10.25.
+//
+
+#ifndef LOWLEVELACADEMY_DYNAMICMALLOC_H
+#define LOWLEVELACADEMY_DYNAMICMALLOC_H
+
+#endif //LOWLEVELACADEMY_DYNAMICMALLOC_H

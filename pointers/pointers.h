@@ -1,0 +1,8 @@
+//
+// Created by Tegshbayar Batbayar on 04.10.25.
+//
+
+#ifndef LOWLEVELACADEMY_POINTERS_H
+#define LOWLEVELACADEMY_POINTERS_H
+
+#endif //LOWLEVELACADEMY_POINTERS_H

@@ -10,4 +10,13 @@ add_library(lowlevelacademy STATIC fundamentals/library.c
         conditionalflows/conditionalflows.h
         loops/loops.c
         functions/functions.c
-        structure/structure.c)
+        structure/structure.c
+        union/union.c
+        union/union.h
+        structmodifier/structmod.c
+        structmodifier/structmod.h
+        pointers/pointers.c
+        pointers/pointers.h
+        dynamicmalloc/dynamicmalloc.c
+        dynamicmalloc/dynamicmalloc.h
+)
