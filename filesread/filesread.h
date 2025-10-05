@@ -1,0 +1,8 @@
+//
+// Created by Tegshbayar Batbayar on 05.10.25.
+//
+
+#ifndef LOWLEVELACADEMY_FILESREAD_H
+#define LOWLEVELACADEMY_FILESREAD_H
+
+#endif //LOWLEVELACADEMY_FILESREAD_H

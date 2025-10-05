@@ -23,4 +23,6 @@ add_library(lowlevelacademy STATIC fundamentals/library.c
         staticalloc/staticalloc.h
         files/files.c
         files/files.h
+        filesread/filesread.c
+        filesread/filesread.h
 )
