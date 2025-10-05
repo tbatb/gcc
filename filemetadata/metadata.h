@@ -1,0 +1,8 @@
+//
+// Created by Tegshbayar Batbayar on 05.10.25.
+//
+
+#ifndef LOWLEVELACADEMY_METADATA_H
+#define LOWLEVELACADEMY_METADATA_H
+
+#endif //LOWLEVELACADEMY_METADATA_H

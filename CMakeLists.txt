@@ -25,4 +25,6 @@ add_library(lowlevelacademy STATIC fundamentals/library.c
         files/files.h
         filesread/filesread.c
         filesread/filesread.h
+        filemetadata/metadata.c
+        filemetadata/metadata.h
 )
