@@ -19,4 +19,8 @@ add_library(lowlevelacademy STATIC fundamentals/library.c
         pointers/pointers.h
         dynamicmalloc/dynamicmalloc.c
         dynamicmalloc/dynamicmalloc.h
+        staticalloc/staticalloc.c
+        staticalloc/staticalloc.h
+        files/files.c
+        files/files.h
 )
